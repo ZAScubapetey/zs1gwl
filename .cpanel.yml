@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bezuide3/zs1gwl.co.za/
+    - export DEPLOYPATH=/home/hkdcfgyd/zs1gwl.co.za/
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R demo $DEPLOYPATH
